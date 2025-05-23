@@ -36,3 +36,4 @@ Visual Studio 2022
 
 Ссылка на задание:
 
+[![🔒 Модификаторы доступа](https://img.shields.io/badge/🔒_Модификаторы_доступа_в_C%23-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Модификаторы%20доступа%20в%20C%23/Access%20modifiers.cs)
