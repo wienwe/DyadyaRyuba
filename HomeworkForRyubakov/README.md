@@ -23,7 +23,7 @@ C#
 Модификаторы доступа в C#
 
 Ссылка на задание:
-
+[![📘 Модификаторы доступа в C#](https://img.shields.io/badge/📘_Модификаторы_доступа_в_C%23-4285F4?style=for-the-badge&logo=book&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Модификаторы%20доступа%20в%20C%23/README.md)
 ## Задание 3:
 Задачи с созданием классов(MathUtils, Counter, StringUtils, Circle)
 
