@@ -12,4 +12,4 @@ plantUML
 ## Ответ:
 Ссылка на таблицу:
 
-[![Документация UML 4](https://img.shields.io/badge/📚_UML_4-FF9800?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Практическая%20работа%204%20UML/README.md)
+[![UML Диаграмма 4](https://img.shields.io/badge/📐_UML_Диаграмма_4-FF6B6B?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Практическая%20работа%204%20UML/uml4.png)
