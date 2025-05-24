@@ -13,3 +13,4 @@ plantUML
 ## Ответ:
 Ссылка на таблицу:
 
+[![Просмотреть UML](https://img.shields.io/badge/👁️_Просмотреть_UML_Диаграмму-FF6B6B?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Практическая%20работа%201%20UML/uml1.png)
