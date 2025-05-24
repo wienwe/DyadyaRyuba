@@ -38,22 +38,24 @@ C#
 Ссылка на задание:
 
 [![README 1](https://img.shields.io/badge/📘_UML_1-6A5ACD?style=for-the-badge&logo=bookstack)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Практическая%20работа%201%20UML/README.md)
-
 ## Задание 5:
 Практическая работа 2 (UML)
 
 Ссылка на задание:
 
+[![README 2](https://img.shields.io/badge/📘_UML_2-3F51B5?style=for-the-badge&logo=bookstack)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Практическая%20работа%202%20UML/README.md)
 ## Задание 6:
 Практическая работа 3 (UML)
 
 Ссылка на задание:
 
+[![README 3](https://img.shields.io/badge/📘_UML_3-9C27B0?style=for-the-badge&logo=bookstack)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Практическая%20работа%203%20UML/README.md)
 ## Задание 7:
 Практическая работа 4 (UML)
 
 Ссылка на задание:
 
+[![README 4](https://img.shields.io/badge/📘_UML_4-FF9800?style=for-the-badge&logo=bookstack)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Практическая%20работа%204%20UML/README.md)
 ## Задание 8:
 Консольный проводник файловой системы
 
