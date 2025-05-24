@@ -25,6 +25,8 @@ Visual Studio 2022
 ## Вопрос 2
 Даны следующие классы:
 
+[![🧮 Задача: Counter класс](https://img.shields.io/badge/🧮_Задача:_Классы-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex2.cs)
+
 ## Вопрос 3
 Как запретить наследование от класса?
 
