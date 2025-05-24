@@ -11,3 +11,4 @@ plantUML
 
 Ссылка на таблицу:
 
+[![Просмотреть](https://img.shields.io/badge/👁️_Просмотреть-4285F4?style=flat-square)](https://github.com/wienwe/DyadyaRyuba/raw/main/HomeworkForRyubakov/Практическая%20работа%202%20UML/uml2.png)
