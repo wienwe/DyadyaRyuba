@@ -12,7 +12,7 @@ Visual Studio 2022
 
 Ссылка на программу:
 
-[![ex1.cs](https://img.shields.io/badge/🔢_MathUtils_класс-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex1.cs)  
+[![ex1.cs](https://img.shields.io/badge/🔢_Программа-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex1.cs)  
 
 ## Ответ:
 
@@ -21,7 +21,7 @@ Visual Studio 2022
 
 # Ссылка на исправление:
 
-[![ans1.cs](https://img.shields.io/badge/📌_Решение_MathUtils-4CAF50?style=for-the-badge&logo=checkcircle&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ans1.cs)  
+[![ans1.cs](https://img.shields.io/badge/📌_Ответ-4CAF50?style=for-the-badge&logo=checkcircle&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ans1.cs)  
 
 ## Вопрос 2
 Даны следующие классы:
@@ -29,7 +29,7 @@ Visual Studio 2022
 
 Ссылка на программу:
 
-[![🧮 Задача: Counter класс](https://img.shields.io/badge/🧮_Задача:_Классы-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex2.cs)
+[![🧮 Задача: Counter класс](https://img.shields.io/badge/🧮_Программа-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex2.cs)
 
 
 Какие конструкторы и в каком порядке в данном случае будет выполняться?
@@ -52,7 +52,7 @@ Visual Studio 2022
 
 Чтобы запретить наследование от класса, нужно пометить его ключевым словом sealed
 ## Ссылка на ответ:
-[![ans3.cs](https://img.shields.io/badge/📌_Решение_StringUtils-4CAF50?style=for-the-badge&logo=checkcircle&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ans3.cs)
+[![ans3.cs](https://img.shields.io/badge/📌_Ответ-4CAF50?style=for-the-badge&logo=checkcircle&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ans3.cs)
 ## Вопрос 4
 Что выведет на консоль следующая программа и почему?
 
@@ -60,7 +60,7 @@ Visual Studio 2022
 Ссылка на программу:
 
 
-[![ex4.cs](https://img.shields.io/badge/📝_StringUtils_класс-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex4.cs)  
+[![ex4.cs](https://img.shields.io/badge/📝_Программа-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex4.cs)  
 
 
 ## Ответ:
@@ -76,7 +76,7 @@ Visual Studio 2022
 Ссылка на программу:
 
 
-[![ex5.cs](https://img.shields.io/badge/⭕_Circle_класс-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex5.cs)  
+[![ex5.cs](https://img.shields.io/badge/⭕_Программа-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex5.cs)  
 
 ## Ответ:
 Программа выведет:
@@ -102,7 +102,7 @@ Truck with capacity 1.1*
 Ссылка на программу:
 
 
-[![ex6.cs](https://img.shields.io/badge/✨_Доп_задача-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex6.cs)
+[![ex6.cs](https://img.shields.io/badge/✨_Программа-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/ex6.cs)
 ## Ответ:
 Программа выведет:
 
