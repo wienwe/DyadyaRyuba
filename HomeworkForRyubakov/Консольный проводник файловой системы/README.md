@@ -9,3 +9,6 @@ Visual Studio 2022
 
 # Задание:
 
+Ссылка на ответ:
+
+[![Просмотреть код](https://img.shields.io/badge/💻_Ответ-4285F4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Консольный%20проводник%20файловой%20системы/ConsoleProvider.cs)
