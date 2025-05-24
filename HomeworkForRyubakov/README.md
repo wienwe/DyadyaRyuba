@@ -37,6 +37,8 @@ C#
 
 Ссылка на задание:
 
+[![README 1](https://img.shields.io/badge/📘_UML_1-6A5ACD?style=for-the-badge&logo=bookstack)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Практическая%20работа%201%20UML/README.md)
+
 ## Задание 5:
 Практическая работа 2 (UML)
 
