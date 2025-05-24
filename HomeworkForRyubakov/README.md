@@ -31,7 +31,7 @@ C#
 Ссылка на задание:
 
 
-[![📚 Документация раздела](https://img.shields.io/badge/📚_Документация-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/README.md)
+[![📚 Документация раздела](https://img.shields.io/badge/📚_Задачи-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Задачи%20с%20созданием%20классов(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle)/README.md)
 ## Задание 4:
 Практическая работа 1 (UML)
 
