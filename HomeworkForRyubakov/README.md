@@ -60,3 +60,5 @@ C#
 Консольный проводник файловой системы
 
 Ссылка на задание:
+
+[![Документация](https://img.shields.io/badge/📚_Консольный проводник-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Консольный%20проводник%20файловой%20системы/README.md)
