@@ -68,4 +68,4 @@ C#
 
 Cсылка на задания:
 
-[![📚 Лабораторные Рамазановой Д.Д.](https://img.shields.io/badge/📚_Лабораторные_Рамазановой_Д.Д.-6A5ACD?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://github.com/.../README.md)
+[![📘 Документация лабораторных работ](https://img.shields.io/badge/📘_Лабораторные_работы-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Ramazanova_D_D_labs/README.md)
