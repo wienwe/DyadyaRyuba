@@ -1,0 +1,9 @@
+C:\Users\pavel\Desktop\Ramazanova_D_D_labs\lb2\1\1\bin\Debug\1.exe.config
+C:\Users\pavel\Desktop\Ramazanova_D_D_labs\lb2\1\1\bin\Debug\1.exe
+C:\Users\pavel\Desktop\Ramazanova_D_D_labs\lb2\1\1\bin\Debug\1.pdb
+C:\Users\pavel\Desktop\Ramazanova_D_D_labs\lb2\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\Ramazanova_D_D_labs\lb2\1\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\pavel\Desktop\Ramazanova_D_D_labs\lb2\1\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\pavel\Desktop\Ramazanova_D_D_labs\lb2\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\Ramazanova_D_D_labs\lb2\1\1\obj\Debug\1.exe
+C:\Users\pavel\Desktop\Ramazanova_D_D_labs\lb2\1\1\obj\Debug\1.pdb
